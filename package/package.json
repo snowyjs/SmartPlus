@@ -1,0 +1,44 @@
+{
+  "_from": "smartplus",
+  "_id": "smartplus@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-hlVgeECZ2DfY3g6SRfsoh6gpQ1k0FXYEaILW8lM6cjW+46zSSlLjWhFuCc2BWrSweO+P5oD0hC0cbpNG6PxHqQ==",
+  "_location": "/smartplus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "smartplus",
+    "name": "smartplus",
+    "escapedName": "smartplus",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/smartplus/-/smartplus-1.0.2.tgz",
+  "_shasum": "95fe3b901058d8036525884aa6f5ed9cdfb8d99c",
+  "_spec": "smartplus",
+  "_where": "C:\\Users\\larst\\OneDrive\\Bureaublad\\Meer troep\\playcommunity",
+  "author": {
+    "name": "Snowy & Niels"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This is a JavaScript language ",
+  "keywords": [
+    "Smart+",
+    "Smart",
+    "SmartPlus"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "smartplus",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
